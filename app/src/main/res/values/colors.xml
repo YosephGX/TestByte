@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="primary">#2699FB</color>
+    <color name="secondary">#0A2459</color>
+    <color name="debit">#E61656</color>
+    <color name="credit">#1CB16D</color>
+</resources>
