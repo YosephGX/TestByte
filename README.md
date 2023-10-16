@@ -1,6 +1,11 @@
 # TestByte
 
-Este el proyecto completo para el Test solicitado, No creo que sean necesarias instrucciones ya que estan todos los archivos del proyecto, es unicamente de agregarlos como proyecto a Android Studio, verificar que no le fante ninguna dependencia al gradle y correr el proyecto.
+Este el proyecto completo para el Test solicitado, unicamente agregar como proyecto a Android Studio, verificar que no le fante ninguna dependencia al gradle y correr el proyecto.
+
+Clona este repositorio en tu máquina local:
+```bash
+git clone https://github.com/brandonknd/tecnicas.git
+```
 
 FUNCIONES:
 - Inicio de sesion.
