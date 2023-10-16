@@ -4,7 +4,7 @@ Este el proyecto completo para el Test solicitado, unicamente agregar como proye
 
 Clona este repositorio en tu máquina local:
 ```bash
-git clone https://github.com/brandonknd/tecnicas.git
+git clone https://github.com/YosephGX/TestByte/tree/master
 ```
 
 FUNCIONES:
